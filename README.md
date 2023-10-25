@@ -1,0 +1,3 @@
+- oi, sou @welwelbk
+- estou estudando javascript
+- programador iniciante
